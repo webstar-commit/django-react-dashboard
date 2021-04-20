@@ -6,6 +6,7 @@ application.
 ```
 export project_name={{ project_name }}
 mkvirtualenv $project_name
+source env/bin/activate
 ```
 1. Follow [backend/README.md](backend/README.md)
 1. Follow [frontend/README.md](frontend/README.md)
